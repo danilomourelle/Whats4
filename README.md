@@ -99,9 +99,8 @@ npm start
 ```
 Você poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
 
-**Projeto inicialmente desenvolvido em 14/02/2020 em parceria com:**
+**Projeto inicialmente desenvolvido em 14/02/2020 [neste Repo](https://github.com/future4code/sagan-whats4-grupo1) em parceria com:**
 * [Henrique Mendes](https://github.com/hdmendes)
-* [Link da versão inicial](https://github.com/future4code/sagan-whats4-grupo1)
 
 ### RESULTADO FINAL
 [Site do projeto](danilomourelle-whats4.surge.sh)
