@@ -18,12 +18,12 @@ O escopo deste *MVP é:*
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
 
-### Labenu | Full-Stack Web Development Bootcamp
+## Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 
 [![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
   
-### Danilo Mourelle
+## Danilo Mourelle
 Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de programação de robôs industriais e pesquisas científicas na área de Neurologia. 
 
 **Canais de comunicação**:
@@ -44,7 +44,7 @@ Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de
 </p>
 <br>
 
-## Front-end
+### Front-end
 Tecnologias, linguagens e projetos desenvolvidos durante o Bootcamp.
 <br>
 
@@ -71,12 +71,12 @@ Tecnologias, linguagens e projetos desenvolvidos durante o Bootcamp.
 
 :trophy: Renderizar condicionalmente o bloco de mensagem de acordo com o remetende da mensagem ("eu")
 
-## Linguagens e libs utilizadas :books:
+### Linguagens e libs utilizadas :books:
 
 - [React](https://pt-br.reactjs.org/): versão 16.12.0
 - [Styled Components](https://styled-components.com/): versão 5.0.1
 
-## Como rodar a aplicação :arrow_forward:
+### Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
 
