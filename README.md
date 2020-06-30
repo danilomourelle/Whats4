@@ -21,7 +21,7 @@ O escopo deste *MVP é:*
 ### Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 
-![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)
+[![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
   
 ### Danilo Mourelle
 Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de programação de robôs industriais e pesquisas científicas na área de Neurologia. 
