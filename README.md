@@ -1,5 +1,33 @@
 > Status do Projeto: Concluido :heavy_check_mark:
+## Danilo Mourelle
+Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de programação de robôs industriais e pesquisas científicas na área de Neurologia. 
+
+**Canais de comunicação**:
+- [Linkedin](https://www.linkedin.com/in/danilomourelle/)
+- [Github](https://github.com/danilomourelle)
+- <danilomourelle@outlook.com>
+
+## Labenu | Full-Stack Web Development Bootcamp
+Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
+
+[![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
+
 # Whats4
+
+<br>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danilomourelle/Whats4">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danilomourelle/Whats4">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danilomourelle/Whats4">
+
+  <a href="https://github.com/danilomourelle/Whats4/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danilomourelle/Whats4">
+  </a>
+</p>
+<br>
+
 #### Escopo do Projeto
 
 <p align="justify">O cliente de hoje está tentando fazer novo projeto: criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhattsApp, Telegram, Messenger e muitos outros.</p>
@@ -17,32 +45,6 @@ O escopo deste *MVP é:*
 2. **Envio de mensagem:**
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
-
-## Labenu | Full-Stack Web Development Bootcamp
-Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
-
-[![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
-  
-## Danilo Mourelle
-Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de programação de robôs industriais e pesquisas científicas na área de Neurologia. 
-
-**Canais de comunicação**:
-- [Linkedin](https://www.linkedin.com/in/danilomourelle/)
-- [Github](https://github.com/danilomourelle)
-- <danilomourelle@outlook.com>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danilomourelle/Whats4">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danilomourelle/Whats4">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danilomourelle/Whats4">
-
-  <a href="https://github.com/danilomourelle/Whats4/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danilomourelle/Whats4">
-  </a>
-</p>
-<br>
 
 ### Front-end
 Tecnologias, linguagens e projetos desenvolvidos durante o Bootcamp.
