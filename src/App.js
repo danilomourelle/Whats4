@@ -12,13 +12,13 @@ const Container = styled.div`
   background-color: #e5ddd5;
   border: solid 1px black;
   display: flex;
-  flex-direction: column;
+  flex-direction: column; 
 `
 class App extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      msgList: [],
+      msgList: []
     }
   }
 
@@ -42,7 +42,6 @@ class App extends React.Component {
       </Container>
     );
   }
-
 }
 
 export default App;

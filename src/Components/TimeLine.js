@@ -5,21 +5,27 @@ import Messenger from './Message'
 const Container = styled.div`
   padding: 12px 8px;
   flex-grow: 1;
-  display: grid;
-  gap: 16px;
-  justify-content: end;
-  align-items: start;
   background: #e5ddd5; 
-  overflow-y: scroll; 
+  overflow-y: auto; 
+`
+const FlexContainer = styled.div`
+  width: 100%;
+  display:flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+  min-height: 100%; 
 `
 
 function TimeLine(props) {
 
   return (
     <Container>
-      {props.list.map((message, index) => {
+      <FlexContainer>
+        {props.list.map((message, index) => {
           return (<Messenger key={index} message={message} index={index} />)
         })}
+      </FlexContainer>
     </Container>
   )
 }

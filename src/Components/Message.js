@@ -5,6 +5,7 @@ const Container = styled.div`
     box-sizing: border-box;
     max-width: 60%;
     padding: 2%;
+    margin: 8px 0;
     border-radius:5px;
     box-sizing: border-box;
     word-break: break-all;
@@ -13,7 +14,7 @@ const Container = styled.div`
     background: ${props => props.myMessage ? 'pink' : 'white'};    
     align-self: ${props => props.myMessage ? 'flex-end' : 'flex-start'};  
     span:first-child {
-      font-weight:bold
+      font-weight:bold;
     }
 `
 
