@@ -2,9 +2,9 @@
 # Whats4
 #### Escopo do Projeto
 
-O cliente de hoje está tentando fazer novo projeto: criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhattsApp, Telegram, Messenger e muitos outros. 
+<p align="justify">O cliente de hoje está tentando fazer novo projeto: criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhattsApp, Telegram, Messenger e muitos outros.</p>
 
-Um projeto tão grande como este, normalmente, começa com a elaboração de um *MVP*. *MVP* significa "*Minimum Valiable Product*", em tradução livre, "mínimo produto viável". Isto significa que começaremos implementando as *features* (funcionalidades) que indiquem o objetivo principal do produto do nosso cliente. Desta forma, não há a necessidade de se desenvolver um sistema que envie e receba mensagens de fora - criaremos algo que simplesmente mostra novas mensagens. 
+<p align="justify">Um projeto tão grande como este, normalmente, começa com a elaboração de um *MVP*. *MVP* significa "*Minimum Valiable Product*", em tradução livre, "mínimo produto viável". Isto significa que começaremos implementando as *features* (funcionalidades) que indiquem o objetivo principal do produto do nosso cliente. Desta forma, não há a necessidade de se desenvolver um sistema que envie e receba mensagens de fora - criaremos algo que simplesmente mostra novas mensagens.</p>
 
 O escopo deste *MVP é:*
 
