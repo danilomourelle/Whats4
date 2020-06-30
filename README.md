@@ -1,6 +1,6 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 ## Danilo Mourelle
-Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de programação de robôs industriais e pesquisas científicas na área de Neurologia. 
+Atualmente um desenvolverdor Web Fullstack (NodeJS), tenho 3 anos de experiência em programação de robôs industriais, onde desenvolvi habilidade na área de programação de linguagens de alto nível e lógica de programação. Também fiz parte, por 4 anos, de um grupo de pesquisa científica em sistemas neurais com foco em memória, aprendizado e Doença de Alzheimer onde obtive familiaridade com documentações em lingua inglesa e a repetibilidade de protocolos pré-estabelecidos.
 
 **Canais de comunicação**:
 - [Linkedin](https://www.linkedin.com/in/danilomourelle/)
@@ -69,7 +69,7 @@ Tecnologias, linguagens e projetos desenvolvidos durante o Bootcamp.
 
 ### O que a plataforma é capaz de fazer :checkered_flag:
 
-:trophy: Simular o funcionamento de um aplicativo mensageiro 
+:trophy: Simular o funcionamento de um aplicativo mensageiro de forma responsiva para Browser e Mobile 
 
 :trophy: Renderizar condicionalmente o bloco de mensagem de acordo com o remetende da mensagem ("eu")
 
@@ -97,10 +97,11 @@ Execute a aplicação
 ```
 npm start
 ```
-Você ´poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
+Você poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
 
-**Desenvolvido em parceria com:**
+**Projeto inicialmente desenvolvido em 14/02/2020 em parceria com:**
 * [Henrique Mendes](https://github.com/hdmendes)
+* [Link da versão inicial](https://github.com/future4code/sagan-whats4-grupo1)
 
 ### RESULTADO FINAL
 [Site do projeto](danilomourelle-whats4.surge.sh)
