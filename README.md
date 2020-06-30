@@ -103,5 +103,5 @@ Você poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
 * [Henrique Mendes](https://github.com/hdmendes)
 
 ### RESULTADO FINAL
-[Site do projeto](danilomourelle-whats4.surge.sh)
+[Site do projeto](http://danilomourelle-whats4.surge.sh)
 
