@@ -1,6 +1,6 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 ## Danilo Mourelle
-Atualmente um desenvolverdor Web Fullstack (NodeJS), tenho 3 anos de experiência em programação de robôs industriais, onde desenvolvi habilidade na área de programação de linguagens de alto nível e lógica de programação. Também fiz parte, por 4 anos, de um grupo de pesquisa científica em sistemas neurais com foco em memória, aprendizado e Doença de Alzheimer onde obtive familiaridade com documentações em lingua inglesa e a repetibilidade de protocolos pré-estabelecidos.
+<p align="justify">Atualmente um desenvolverdor Web Fullstack (NodeJS), tenho 3 anos de experiência em programação de robôs industriais, onde desenvolvi habilidade na área de programação de linguagens de alto nível e lógica de programação. Também fiz parte, por 4 anos, de um grupo de pesquisa científica em sistemas neurais com foco em memória, aprendizado e Doença de Alzheimer onde obtive familiaridade com documentações em lingua inglesa e a repetibilidade de protocolos pré-estabelecidos.</p>
 
 **Canais de comunicação**:
 - [Linkedin](https://www.linkedin.com/in/danilomourelle/)
@@ -45,10 +45,6 @@ O escopo deste *MVP é:*
 2. **Envio de mensagem:**
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
-
-### Front-end
-Tecnologias, linguagens e projetos desenvolvidos durante o Bootcamp.
-<br>
 
 ### LINGUAGENS
 
@@ -103,5 +99,5 @@ Você poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
 * [Henrique Mendes](https://github.com/hdmendes)
 
 ### RESULTADO FINAL
-[Site do projeto](danilomourelle-whats4.surge.sh)
+[Site do projeto](http://danilomourelle-whats4.surge.sh)
 
