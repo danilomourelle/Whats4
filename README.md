@@ -1,74 +1,105 @@
+> Status do Projeto: Concluido :heavy_check_mark:
 # Whats4
-Projeto semanal (semana 5) referente ao módulo 2 do curso Fullstack da Labenu_
+#### Escopo do Projeto
 
+<p align="justify">O cliente de hoje está tentando fazer novo projeto: criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhattsApp, Telegram, Messenger e muitos outros.</p>
 
-# Labenu | Full-Stack Web Development Bootcamp
+<p align="justify">Um projeto tão grande como este, normalmente, começa com a elaboração de um <em>MVP</em>. <em>MVP</em> significa "<em>Minimum Valiable Product</em>", em tradução livre, "mínimo produto viável". Isto significa que começaremos implementando as *features* (funcionalidades) que indiquem o objetivo principal do produto do nosso cliente. Desta forma, não há a necessidade de se desenvolver um sistema que envie e receba mensagens de fora - criaremos algo que simplesmente mostra novas mensagens.</p>
+
+O escopo deste *MVP é:*
+
+1. **Lista de mensagem:**
+    - Cada mensagem deve possuir um remetente (ou seja, um usuário que enviou) e o conteúdo em si.
+    - No layout, eles devem ficar assim:
+
+<p align="center"> <strong>nome do remente:</strong> conteúdo </p>
+
+2. **Envio de mensagem:**
+    - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
+    - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
+
+### Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 
-![Screenshot_1](https://user-images.githubusercontent.com/45580434/79641791-06e1c100-8170-11ea-8ecf-b6c889805d55.png)
-<br>
+[![Screenshot_1](https://raw.githubusercontent.com/danilomourelle/Whats4/master/Lbn.png)](https://www.labenu.com.br/)
   
-## Rosana-Rezende
-Advogada | Desenvolvedora web front-end | MBA em gestão: inteligência de negócios digitais - FGV
-<br><br>
+### Danilo Mourelle
+Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de programação de robôs industriais e pesquisas científicas na área de Neurologia. 
 
 **Canais de comunicação**:
-- [Linkedin](https://www.linkedin.com/in/rosanarezende/)
-- [Github](https://github.com/rosanarezende)
+- [Linkedin](https://www.linkedin.com/in/danilomourelle/)
+- [Github](https://github.com/danilomourelle)
+- <danilomourelle@outlook.com>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/future4code/Rosana-Rezende">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danilomourelle/Whats4">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/future4code/Rosana-Rezende">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danilomourelle/Whats4">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/future4code/Rosana-Rezende">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danilomourelle/Whats4">
 
-  <a href="https://github.com/future4code/Rosana-Rezende/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/future4code/Rosana-Rezende">
+  <a href="https://github.com/danilomourelle/Whats4/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danilomourelle/Whats4">
   </a>
 </p>
 <br>
 
 ## Front-end
 Tecnologias, linguagens e projetos desenvolvidos durante o Bootcamp.
-<br><br>
+<br>
 
 ### LINGUAGENS
 
 * HTML
 * CSS
 * JavaScript
-<br>
 
 ### TECNOLOGIAS/FERRAMENTAS
 
 * Terminal
 * Git
-* ChromeDevTools
+* BrowserDevTools
 * Vanilla Javascript
 * Node.js
 * React
-* Redux
-* Redux-Thunk: Integração do redux com requisições assíncronas.
-* Autenticação
 * Estilização Avançada com CSS
-* Uso de bibliotecas de UI (MaterialUI)
-* Aplicações com múltiplas rotas utilizando React Router
-* Formulários com Validação
-* Teste unitário de lógica e de componentes
 * Responsividade e adaptação de aplicação web para front.
-<br><br>
 
-### PROJETO FINAL - iFuture
+### O que a plataforma é capaz de fazer :checkered_flag:
 
-[Repositório do projeto](https://github.com/future4code/sagan-4food-B)
+:trophy: Simular o funcionamento de um aplicativo mensageiro 
 
-[Site do projeto](http://ifuture-sagan.surge.sh/)
+:trophy: Renderizar condicionalmente o bloco de mensagem de acordo com o remetende da mensagem ("eu")
 
-**Versão mobile**
+## Linguagens e libs utilizadas :books:
 
-<p align="center">
-  <img  height='600' src='https://user-images.githubusercontent.com/45580434/79641732-bd917180-816f-11ea-810b-59ee03a3367b.gif'>
-</p>
+- [React](https://pt-br.reactjs.org/): versão 16.12.0
+- [Styled Components](https://styled-components.com/): versão 5.0.1
 
-<br>
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/danilomourelle/Whats4.git
+```
+Navegue para dentro da raiz do projeto
+```
+cd Whats4
+```
+Instale as dependências
+```
+npm i
+```
+Execute a aplicação
+```
+npm start
+```
+Você ´poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
+
+**Desenvolvido em parceria com:**
+* [Henrique Mendes](https://github.com/hdmendes)
+
+### RESULTADO FINAL
+[Site do projeto](danilomourelle-whats4.surge.sh)
+
