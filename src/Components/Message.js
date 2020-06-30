@@ -4,7 +4,6 @@ import styled from "styled-components";
 const Container = styled.div`
     box-sizing: border-box;
     max-width: 60%;
-    margin: 8px 0;
     padding: 2%;
     border-radius:5px;
     box-sizing: border-box;

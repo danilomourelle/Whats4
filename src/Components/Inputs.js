@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Container = styled.div`
   width: 100%;
-  height: 5vh;
+  height: 50px;
   display: flex;
   box-sizing: border-box;
   padding: 8px;
@@ -51,7 +51,7 @@ class Inputs extends React.Component {
 
   handlePressEnter = (event) => {
     const key = event.which;
-    if (key === 13 && this.state.autor !== "" && this.state.mensagem !== "") {
+    if (key === 13 && this.state.author !== "" && this.state.message !== "") {
       this.props.addMensagem(this.state.author, this.state.message);
       this.setState({
         author: "",
@@ -61,7 +61,7 @@ class Inputs extends React.Component {
   }
 
   handleButtonSend = () => {
-    if (this.state.autor !== "" && this.state.mensagem !== "") {
+    if (this.state.author !== "" && this.state.message !== "") {
       this.props.addMensagem(this.state.author, this.state.message);
       this.setState({
         author: "",

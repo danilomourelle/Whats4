@@ -6,7 +6,7 @@ import TimeLine from './Components/TimeLine';
 const Container = styled.div`
   width:100%;
   max-width:600px;
-  min-height: 100vh;
+  height: 100vh;
   box-sizing: border-box;
   margin: 0 auto;
   background-color: #e5ddd5;

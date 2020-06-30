@@ -3,13 +3,14 @@ import styled from 'styled-components'
 import Messenger from './Message'
 
 const Container = styled.div`
-  flex-grow:1;
   padding: 12px 8px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-start;
-  background: #e5ddd5;  
+  flex-grow: 1;
+  display: grid;
+  gap: 16px;
+  justify-content: end;
+  align-items: start;
+  background: #e5ddd5; 
+  overflow-y: scroll; 
 `
 
 function TimeLine(props) {
