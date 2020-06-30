@@ -1,7 +1,8 @@
+> Status do Projeto: Concluido :heavy_check_mark:
 # Whats4
 #### Escopo do Projeto
 
-O cliente de hoje está tentando fazer uma utopia (vocês vão reparar que isto é muito comum no mercado): criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhattsApp, Telegram, Messenger e muitos outros. 
+O cliente de hoje está tentando fazer novo projeto: criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhattsApp, Telegram, Messenger e muitos outros. 
 
 Um projeto tão grande como este, normalmente, começa com a elaboração de um *MVP*. *MVP* significa "*Minimum Valiable Product*", em tradução livre, "mínimo produto viável". Isto significa que começaremos implementando as *features* (funcionalidades) que indiquem o objetivo principal do produto do nosso cliente. Desta forma, não há a necessidade de se desenvolver um sistema que envie e receba mensagens de fora - criaremos algo que simplesmente mostra novas mensagens. 
 
@@ -17,8 +18,6 @@ O escopo deste *MVP é:*
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
 
-
-> Status do Projeto: Concluido :heavy_check_mark:
 ### Labenu | Full-Stack Web Development Bootcamp
 Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 
@@ -30,6 +29,7 @@ Atualmente um desenvolverdor Web Fullstack (NodeJS), mas já atuei nas áreas de
 **Canais de comunicação**:
 - [Linkedin](https://www.linkedin.com/in/danilomourelle/)
 - [Github](https://github.com/danilomourelle)
+- <danilomourelle@outlook.com>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danilomourelle/Whats4">
@@ -97,7 +97,8 @@ npm start
 ```
 Você ´poderá acessar a aplicação em [localhost:3000](http:localhost:3000)
 
-<br>
+**Desenvolvido em parceria com:**
+* [Henrique Mendes](https://github.com/hdmendes)
 
 ### RESULTADO FINAL
 [Site do projeto](danilomourelle-whats4.surge.sh)
