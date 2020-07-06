@@ -46,13 +46,13 @@ O escopo deste *MVP é:*
     - Abaixo da lista citada, deve existir um local onde o usuário escolhe o nome do remetente (input) ; o conteúdo da mensagem (input) e um botão de enviar;
     - No layout, eles devem ficar um ao lado do outro. Sendo o campo do remetente com largura muito menor do que o campo do conteúdo;
 
-### LINGUAGENS
+### Linguagens
 
 * HTML
 * CSS
 * JavaScript
 
-### TECNOLOGIAS/FERRAMENTAS
+### Tecnologias/Ferramentas
 
 * Terminal
 * Git
@@ -75,10 +75,11 @@ O escopo deste *MVP é:*
 - [Styled Components](https://styled-components.com/): versão 5.0.1
 
 ### Conhecimentos adquiridos durante o projeto :mortar_board:
+- Gerenciamento de versões com Git/GitHub em trabalho colaborativo
 - Posicionamento de containers com CSS (flexbox e grid)
 - Estilização condicional através da biblioteca styled-components
 - Desenvolvimento em React com troca de informações entre componentes via props
-- Renderização de listas (variáveis dinamicas)
+- Renderização de listas em arrays (variáveis dinamicas)
 
 ### Como rodar a aplicação :arrow_forward:
 
