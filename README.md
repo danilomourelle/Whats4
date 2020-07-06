@@ -74,6 +74,12 @@ O escopo deste *MVP é:*
 - [React](https://pt-br.reactjs.org/): versão 16.12.0
 - [Styled Components](https://styled-components.com/): versão 5.0.1
 
+### Conhecimentos adquiridos durante o projeto :mortar_board:
+- Posicionamento de containers com CSS (flexbox e grid)
+- Estilização condicional através da biblioteca styled-components
+- Desenvolvimento em React com troca de informações entre componentes via props
+- Renderização de listas (variáveis dinamicas)
+
 ### Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
